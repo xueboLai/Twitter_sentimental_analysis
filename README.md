@@ -3,7 +3,7 @@
 <h4 align="center">Xuebo (Bill) Lai</h4>
 <h4 align="center">Pu Zhao</h4>
 
-<hr>
+
 ## [Link to source code](./src/sentiment_analyzer.ipynb) 
 <br>
 
