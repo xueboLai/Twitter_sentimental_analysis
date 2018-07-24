@@ -2,8 +2,8 @@
 
 <p align="center">
 
-<h3>Xuebo (Bill) Lai<h3><br>
-<h3>Pu Zhao<h3><br>
+Xuebo (Bill) Lai<br>
+Pu Zhao
 </p>
 
 ## [Link to source code](./src/sentiment_analyzer.ipynb) 
