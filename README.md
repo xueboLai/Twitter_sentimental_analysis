@@ -1,11 +1,9 @@
 # <h1 align="center"> Twitter Sentimental Analyzer <h1>
 
-<p align="center">
+<h4 align="center">Xuebo (Bill) Lai</h4>
+<h4 align="center">Pu Zhao</h4>
 
-Xuebo (Bill) Lai<br>
-Pu Zhao
-</p>
-
+<hr>
 ## [Link to source code](./src/sentiment_analyzer.ipynb) 
 <br>
 
