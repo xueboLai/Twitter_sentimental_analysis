@@ -1,6 +1,7 @@
 # <h1 align="center"> Twitter Sentimental Analyzer <h1>
 
 <p align="center">
+
 <h3>Xuebo (Bill) Lai<h3><br>
 <h3>Pu Zhao<h3><br>
 </p>
