@@ -4,7 +4,7 @@
 <h4 align="center">Pu Zhao</h4>
 
 
-## [Link to source code](./src/sentiment_analyzer.ipynb) 
+## [Link to source code](./src/sentiment_analyzer_.ipynb) 
 <br>
 
 ### Goal:
