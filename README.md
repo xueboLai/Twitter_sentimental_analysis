@@ -12,13 +12,13 @@ We intend to build a sentimental analyzer that can show people's attitude toward
 
 ### Overviews:
 
-The project will be developed by following the Cross-Industrial Standard Process for Data Mining, which roughly consists of six steps: Business Insight, Data Understanding, Data Processing, Modeling, Evaluation and Deployment. Most of the time for this project would be spent in processing text (data processing).  The techniques being applied to this project are what we have learnt in NLP classes for this semester, including tf-idf, pca, logistic modeling, bag of words, word embedding and neural network, etc.
+The project will be developed by following the Cross-Industrial Standard Process for Data Mining, which roughly consists of six steps: Business Insight, Data Understanding, Data Processing, Modeling, Evaluation and Deployment. Most of the time for this project would be spent in processing text (data processing).  The techniques being applied to this project include tf-idf, pca, logistic modeling, bag of words, word embedding and neural network, etc.
 
 
 ### Details of the Projects:
 
 #### Program
-This is really important. Please note that all the coding and results are in the file called "result_program.ipynb". The unlabled tweets data collected by the program is name "outcome1.csv". The label for the first 800 tweets in outcome1.csv is in 200y.csv.
+This is really important. Please note that all the coding and results are in the file called "sentiment_analyzer_.ipynb". The unlabled tweets data collected by the program is name "outcome1.csv". The label for the first 800 tweets in outcome1.csv is in 200y.csv.
 
 #### Business Insight:
 
